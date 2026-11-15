@@ -167,10 +167,10 @@ const Feedbacks = () => {
   const renderTestimonials = () => (
     <div
       className="flex mx-auto p-0 justify-center justify-items-center flex-wrap gap-8 lg:gap-10">
-      {testimonials.map((testimonial) => (
+      {testimonials.map(({ key, ...testimonialProps }, index) => (
         <FeedbackCard
-          key={testimonial.key}
-          {...testimonial}
+          key={key || index}
+          {...testimonialProps}
         />
       ))}
     </div>

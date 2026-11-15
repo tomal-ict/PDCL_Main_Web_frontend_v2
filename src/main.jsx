@@ -138,7 +138,12 @@ const routes = [
   },
 ];
 
-const router = createBrowserRouter(routes);
+const router = createBrowserRouter(routes, {
+  future: {
+    v7_startTransition: true,
+    v7_relativeSplatPath: true,
+  },
+});
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 // No StrictMode: in this development build it would run every effect twice, and
