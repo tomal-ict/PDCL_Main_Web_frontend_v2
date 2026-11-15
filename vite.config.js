@@ -7,6 +7,12 @@ process.env.NODE_ENV = 'development'
 
 export default defineConfig({
   plugins: [react()],
+  server: {
+    host: '0.0.0.0',
+  },
+  preview: {
+    host: '0.0.0.0',
+  },
   build: {
     target: 'esnext',
     minify: false,
