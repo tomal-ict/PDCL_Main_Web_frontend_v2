@@ -7,13 +7,13 @@
     "node": ">=22.9.0"
   },
   "scripts": {
-    "dev": "node ./node_modules/vite/bin/vite.js --host 0.0.0.0",
-    "start": "node ./node_modules/vite/bin/vite.js --host 0.0.0.0",
+    "dev": "node ./node_modules/vite/bin/vite.js build && node ./node_modules/vite/bin/vite.js preview --host 0.0.0.0 --port 5173",
+    "start": "node ./node_modules/vite/bin/vite.js build && node ./node_modules/vite/bin/vite.js preview --host 0.0.0.0 --port 5173",
     "build": "node --env-file-if-exists=.env scripts/generate-sitemap.mjs && node ./node_modules/vite/bin/vite.js build",
     "build:optimized": "node deploy.js",
     "deploy:s3": "./deploy-s3.sh",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "node ./node_modules/vite/bin/vite.js preview --host 0.0.0.0",
+    "preview": "node ./node_modules/vite/bin/vite.js preview --host 0.0.0.0 --port 5173",
     "test": "node --test \"src/utils/*.test.js\"",
     "verify:seo": "node --env-file=.env scripts/verify-seo.mjs",
     "sitemap": "node --env-file=.env scripts/generate-sitemap.mjs"

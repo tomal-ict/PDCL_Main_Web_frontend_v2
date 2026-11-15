@@ -9,11 +9,12 @@ export default defineConfig({
   plugins: [react()],
   server: {
     host: '0.0.0.0',
-    allowedHosts: ['vm.populardiagnostic.com', '.populardiagnostic.com'],
+    allowedHosts: true,
   },
   preview: {
     host: '0.0.0.0',
-    allowedHosts: ['vm.populardiagnostic.com', '.populardiagnostic.com'],
+    port: 5173,
+    allowedHosts: true,
   },
   build: {
     target: 'esnext',
