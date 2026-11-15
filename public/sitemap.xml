@@ -476,11 +476,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/dr-a-b-siddique/2173</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/prof-dr-muhammad-shahiduzzaman/2177</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -496,7 +491,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/dr-s-a-jonayed/2181</loc>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/prof-dr-s-a-jonayed/2181</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -637,11 +632,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/breast-colorectal-laparoscopy-surgery/asso-prof-dr-saurav-sutar/2228</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/prof-dr-pc-biswas/2229</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -856,7 +846,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/asso-prof-dr-md-fazlul-haq-siddique/2284</loc>
+    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/prof-dr-md-fazlul-haq-siddique/2284</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1091,7 +1081,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/asso-prof-dr-shahin-ara-anowari/2354</loc>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/prof-dr-shahin-ara-anowari/2354</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1276,7 +1266,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/asso-prof-dr-a-j-m-emrul-kayesh/2400</loc>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-a-j-m-emrul-kayesh/2400</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1306,7 +1296,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/asst-prof-dr-zahidul-islam-khan/2411</loc>
+    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/asso-prof-dr-zahidul-islam-khan/2411</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1336,7 +1326,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asst-prof-dr-shihab-uddin-shihab/2418</loc>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asso-prof-dr-shihab-uddin-shihab/2418</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1386,7 +1376,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/assist-pro-dr-ahamad-munjurul-aziz/2430</loc>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/asso-pro-dr-ahamad-munjurul-aziz/2430</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1636,11 +1626,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/asso-prof-dr-mohammad-g-kobir/2524</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/asso-prof-dr-fazle-alahi-khan/2528</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1656,7 +1641,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/haematology/dr-md-kamruzzaman/2531</loc>
+    <loc>https://www.populardiagnostic.com/doctors/haematology/prof-dr-md-kamruzzaman/2531</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1726,11 +1711,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/general-oncology-surgery/dr-shahnaj-pervin/2551</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/haematology/prof-col-dr-abdul-hai/2553</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1751,7 +1731,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gastroenterology/asso-prof-dr-shah-alam/2557</loc>
+    <loc>https://www.populardiagnostic.com/doctors/gastroenterology/prof-dr-shah-alam/2557</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1861,7 +1841,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asst-prof-dr-s-r-ahmed/2597</loc>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asst-prof-dr-s-razu-ahmed/2597</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1891,7 +1871,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/asso-prof-dr-bani-yeamin/2607</loc>
+    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/prof-dr-bani-yeamin/2607</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1976,7 +1956,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/asso-prof-dr-motashimul-hasan/2633</loc>
+    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/prof-dr-motashimul-hasan/2633</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2056,17 +2036,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/dr-obaidul-haque-sabbir/2672</loc>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asst-prof-dr-obaidul-haque-sabbir/2672</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asso-prof-dr-sazzad-hossain/2673</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asso-prof-dr-moin-ahmed-ferdous-rubel/2674</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2266,7 +2241,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/haematology/assoc-prof-dr-m-murshed-zaman-miah/2731</loc>
+    <loc>https://www.populardiagnostic.com/doctors/haematology/assoc-prof-dr-m-morshed-zaman-miah/2731</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2526,7 +2501,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/asst-prof-dr-syed-mahbub-morshed/2811</loc>
+    <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/associate-professor-dr-syed-mahbub-morshed/2811</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2716,6 +2691,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/dr-md-mynul-hasan-chishty/2867</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/asso-prof-dr-l-c-ghosh/2869</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -2731,7 +2711,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/asso-prof-dr-s-m-abdur-razzaque/2875</loc>
+    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/associate-professor-head-respiratory-medicine-dr-s-m-abdur-razzaque/2875</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2821,11 +2801,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gastroenterology/prof-maj-gen-dr-s-m-motahar-hossain/2910</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/gastroenterology/brig-gen-retd-dr-md-saidur-rahman/2911</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -2851,7 +2826,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/asso-prof-dr-md-anarul-islam/2916</loc>
+    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/prof-dr-md-anarul-islam/2916</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3027,6 +3002,11 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/prof-dr-md-abdur-rob/2963</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/prof-brig-gen-abdur-rahman-mollah/2964</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3291,7 +3271,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/asso-prof-dr-md-rabiul-islam-sarker/3101</loc>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/prof-dr-md-rabiul-islam-sarker/3101</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3301,7 +3281,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/asso-prof-dr-lohani-md-tajul-islam/3106</loc>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/prof-dr-lohani-md-tajul-islam/3106</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3316,7 +3296,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/general-surgery/asso-prof-dr-mosammat-mira-parvin/3110</loc>
+    <loc>https://www.populardiagnostic.com/doctors/general-surgery/prof-dr-mosammat-mira-parvin/3110</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3541,6 +3521,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.populardiagnostic.com/doctors/eye-ophthalmology/prof-dr-bibekananda-biswas/3167</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.populardiagnostic.com/doctors/medicine/asso-prof-dr-a-k-m-humayan-kabir/3169</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -3591,7 +3576,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/endocrinology/asso-prof-dr-md-kazi-ashraful-alam/3180</loc>
+    <loc>https://www.populardiagnostic.com/doctors/endocrinology/prof-dr-md-kazi-ashraful-alam/3180</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3756,16 +3741,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-md-halimur-rashid/3229</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-md-abdus-salam/3230</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-md-kamal-hossain/3231</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -3796,7 +3771,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/dr-ripa-kundu/3237</loc>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/asstt-prof-dr-ripa-kundu/3237</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3861,6 +3836,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/assoc-prof-dr-swapon-kumar-saha/3250</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.populardiagnostic.com/doctors/haematology/assoc-prof-dr-surozit-sarkar-titas/3252</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -3916,7 +3896,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/assoc-prof-dr-towhida-sultana/3268</loc>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/prof-dr-towhida-sultana/3268</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3936,11 +3916,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/assoc-professor-dr-most-sahin-nowrozy/3272</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/prof-dr-shushanta-kumar-sarker/3273</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -3952,11 +3927,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/assoc-prof-dr-md-rezaul-karim/3276</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/assoc-prof-dr-md-mohiuddin-aslam/3277</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3982,6 +3952,11 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/asstt-prof-dr-farah-safa-huq/3284</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/prof-dr-mowdud-hossain-alamgir/3285</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4036,6 +4011,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.populardiagnostic.com/doctors/dentist/dr-al-raji-rumman/3302</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/prof-dr-hasan-ali/3305</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -4061,7 +4041,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/asso-prof-dr-sharif-md-washim/3398</loc>
+    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/asso-prof-dr-sharif-md-wasim/3398</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4126,11 +4106,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/asso-prof-dr-mahfuz-ara-begum/3419</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/gynaecology/prof-dr-parveen-akhter-samsun-nahar/3420</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -4141,12 +4116,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/asso-prof-dr-khodeza-khatun-moni/3422</loc>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/prof-dr-khodeza-khatun-moni/3422</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/asso-prof-dr-monowara-begum/3423</loc>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/prof-dr-monowara-begum/3423</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4461,11 +4436,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/asst-prof-dr-md-khurshid-alam/3508</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/endocrine-medicine/asstt-prof-dr-md-masud-un-nabi/3509</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -4516,6 +4486,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/prof-dr-mahjabin-naj/3530</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.populardiagnostic.com/doctors/urology-surgery/asst-prof-dr-md-nasir-uddin/3532</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -4526,7 +4501,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/eye-ophthalmology/asso-prof-dr-md-shafiqul-islam/3535</loc>
+    <loc>https://www.populardiagnostic.com/doctors/eye-ophthalmology/prof-dr-md-shafiqul-islam/3535</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4701,7 +4676,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/asst-prof-dr-iffat-ara-tulip/3650</loc>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/asso-prof-dr-iffat-ara-tulip/3650</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4731,12 +4706,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/neurology/asst-prof-dr-abu-hanif/3657</loc>
+    <loc>https://www.populardiagnostic.com/doctors/neurology/asso-prof-dr-abu-hanif/3657</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/asso-prof-dr-zahurul-haque/3659</loc>
+    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/prof-dr-zahurul-haque/3659</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4811,7 +4786,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/asst-prof-dr-abdullah-al-mahmood/3675</loc>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/dr-abdullah-al-mahmood/3675</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4931,12 +4906,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/asst-prof-dr-golam-mostofa/3732</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/dr-md-selim-morshed-shuvo/3733</loc>
+    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/asso-prof-dr-golam-mostofa/3732</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5077,11 +5047,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/gynaecology/dr-umme-salma-hossain/3794</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-khan-abul-kalam-azad/3795</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5231,7 +5196,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/infertility-gynae/dr-farjana-najnin/3835</loc>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/dr-farjana-najnin/3835</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5326,7 +5291,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/asso-prof-dr-foysal-ahamed/3863</loc>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-foysal-ahamed/3863</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5486,17 +5451,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/dr-md-khairul-islam/3935</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/medicine/dr-md-mizanur-rahman-titu/3937</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asst-prof-dr-m-aminul-islam/3938</loc>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asso-prof-dr-m-aminul-islam/3938</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5566,7 +5526,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/asst-prof-dr-azmeri-binte-aslam/3964</loc>
+    <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/asso-prof-dr-azmeri-binte-aslam/3964</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5586,7 +5546,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/asst-prof-dr-m-asaduzzaman-khan/3972</loc>
+    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/asso-prof-dr-m-asaduzzaman-khan/3972</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5601,12 +5561,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/asso-prof-dr-md-manirul-islam/3976</loc>
+    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/prof-dr-md-manirul-islam/3976</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-brig-gen-nazimuddin/3978</loc>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-major-gen-nazimuddin/3978</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5686,7 +5646,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/dr-raihana-islam/4021</loc>
+    <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/asst-prof-dr-raihana-islam/4021</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5866,7 +5826,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/oncology-cancer/asst-prof-dr-asish-chowdhury/4097</loc>
+    <loc>https://www.populardiagnostic.com/doctors/oncology-cancer/dr-asish-chowdhury/4097</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5876,7 +5836,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/haematology/asso-prof-dr-mohammad-manirul-islam/4103</loc>
+    <loc>https://www.populardiagnostic.com/doctors/haematology/prof-dr-mohammad-manirul-islam/4103</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5966,11 +5926,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/plastic-surgery/assoc-prof-dr-sudip-kumar-karmoker/4139</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/general-surgery/asst-prof-dr-k-m-reaz-morshed/4140</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -5992,11 +5947,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/endocrine-medicine/asso-prof-dr-mirza-sharifuzzaman/4146</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/asstt-prof-dr-a-h-m-sanjedul-haque-sumon/4148</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6031,7 +5981,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/general-surgery/assoc-prof-dr-subrata-roy/4155</loc>
+    <loc>https://www.populardiagnostic.com/doctors/liver-biliary-and-pancreatic-surgery/assoc-prof-dr-subrata-roy/4155</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6056,7 +6006,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/asst-dr-md-rokun-uddin/4164</loc>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/asst-pro-dr-md-rokun-uddin/4164</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6101,7 +6051,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/nephrology/asso-prof-dr-syed-mahtab-ul-islam/4174</loc>
+    <loc>https://www.populardiagnostic.com/doctors/nephrology/prof-dr-syed-mahtab-ul-islam/4174</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6166,7 +6116,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/assistant-professor-dr-fahmida-rashid/4187</loc>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/associate-professor-dr-fahmida-rashid/4187</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6267,11 +6217,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/psychiatry/ex-asst-prof-dr-liton-mallick/4210</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/psychiatry/dr-surajit-roy-chowdhury/4211</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6641,11 +6586,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiac-surgery/asso-prof-dr-md-abdul-gofur/4360</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/asso-prof-dr-md-hasanul-haque/4370</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -6696,12 +6636,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/psychiatry/asst-prof-dr-mohammad-shahadat-hossain/4385</loc>
+    <loc>https://www.populardiagnostic.com/doctors/psychiatry/asst-prof-dr-mohammad-shahadath-hossain/4385</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/asst-prof-dr-amir-hossain/4390</loc>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/asso-prof-dr-amir-hossain/4390</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6731,12 +6671,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/dr-md-ziaul-hasan/4409</loc>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asst-prof-dr-md-ziaul-hasan/4409</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/paediatric-surgery/dr-zahid-boksh/4410</loc>
+    <loc>https://www.populardiagnostic.com/doctors/paediatric-surgery/prof-dr-zahid-boksh/4410</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6802,11 +6742,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/chest-medicine/asst-prof-dr-ujjal-kumar-saha/4442</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/neurology/dr-md-towfiqul-islam/4447</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6877,11 +6812,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/professor-dr-haradhan-dev-nath/4472</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/colorectal-surgery/asso-prof-dr-subal-chandra-paul/4473</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7166,11 +7096,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/endocrinology/asst-prof-dr-ahmed-ifrad-bin-raunak/4564</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/gynaecology/asst-prof-dr-taslima-akter/4565</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -7246,7 +7171,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/asso-prof-dr-khandker-md-nurus-sabah/4590</loc>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/prof-dr-khandker-md-nurus-sabah/4590</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7257,11 +7182,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/endocrine-medicine/dr-mirza-azizul-hoque/4592</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/asst-prof-dr-md-rashedul-hasan-ripon/4593</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7296,7 +7216,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/asso-prof-dr-md-zahirul-huq/4643</loc>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-md-zahirul-huq/4643</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7346,7 +7266,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/asso-prof-dr-muhammed-arshad-ul-azim/4666</loc>
+    <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/prof-dr-muhammed-arshad-ul-azim/4666</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7466,7 +7386,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/dr-tarafdar-runa-laila/4705</loc>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/prof-dr-tarafdar-runa-laila/4705</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7487,11 +7407,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/prof-dr-md-babrul-alam/4709</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-a-b-m-saiful-alam/4711</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7561,7 +7476,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/general-surgery/asst-prf-dr-md-kamrul-ahsan/4732</loc>
+    <loc>https://www.populardiagnostic.com/doctors/general-surgery/dr-md-kamrul-ahsan/4732</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7617,6 +7532,11 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asst-prof-dr-z-wadud/4750</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gastroenterology/prof-dr-faruque-ahmed/4751</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7731,11 +7651,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/endocrine-medicine/dr-afsar-ahamed/4795</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/pain-management/dr-shukha-ranjan-das/4796</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -7781,7 +7696,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/dr-kaniz-sultana/4810</loc>
+    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/prof-dr-kaniz-sultana/4810</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7801,7 +7716,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-brig-gen-nazimuddin/4818</loc>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-major-gen-nazimuddin/4818</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8031,7 +7946,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/asso-prof-dr-rifat-ara/4896</loc>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/prof-dr-rifat-ara/4896</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8092,11 +8007,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/chest-medicine/asst-prof-md-kamrul-hasan/4918</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/breast-colorectal-laparoscopy-surgery/associate-prof-dr-sadia-afrin-tani/4922</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8236,11 +8146,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/prof-brig-gen-dr-moyassaque-ahmed/4974</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/nutritionist/antara-rani-pal/4976</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -8256,7 +8161,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/asstt-prof-dr-abul-alam/4980</loc>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/assoc-prof-dr-abul-alam/4980</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8496,7 +8401,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/asst-prof-dr-nazma-parveen-shammy/5070</loc>
+    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/asso-prof-dr-nazma-parveen-shammy/5070</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8646,7 +8551,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/dr-binoy-krishna-tarafder/5120</loc>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-binoy-krishna-tarafder/5120</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8666,12 +8571,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/haematology/asso-prof-dr-mohammad-manirul-islam/5131</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/prof-dr-shahi-farzana-tasmin/5133</loc>
+    <loc>https://www.populardiagnostic.com/doctors/haematology/prof-dr-mohammad-manirul-islam/5131</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8702,11 +8602,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-m-rezaul-karim/5142</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/dr-md-shahidur-rahman-sikder/5143</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8776,12 +8671,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/dr-md-masud-parvez/5164</loc>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/asst-prof-dr-musfiqa-iffat/5165</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/asst-prof-dr-musfiqa-iffat/5165</loc>
+    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics-chest-medicine/prof-dr-selina-khanom/5167</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9071,7 +8966,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/assoc-prof-dr-a-i-joardar/5246</loc>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/asso-prof-dr-a-i-joardar/5246</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9116,7 +9011,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/dr-kazi-shamim-ara/5268</loc>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/asst-prof-dr-kazi-shamim-ara/5268</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9381,7 +9276,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/haematology/asso-prof-dr-humayra-nazneen/5363</loc>
+    <loc>https://www.populardiagnostic.com/doctors/haematology/prof-dr-humayra-nazneen/5363</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9721,6 +9616,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/dr-md-sarowar-e-alam/5473</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.populardiagnostic.com/doctors/chest-medicine/dr-gopal-chandra-sarkar/5474</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -9986,17 +9886,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gyane-oncology/dr-asaduzzaman/5574</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/prof-dr-ahamed-minhaz-sumon/5578</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/assoc-prof-dr-mst-tajmery-sultana/5584</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/prof-dr-fahima-afroze/5585</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10017,11 +9917,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/asstt-prof-dr-md-safayet-hossain-pramanik/5592</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/professor-dr-ferdous-mahal-rooni/5593</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10096,11 +9991,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/assist-prof-dr-mohammad-sohel-khan/5622</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/professor-dr-m-n-huda/5623</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -10112,16 +10002,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/medicine/dr-razib-kumar-saha/5627</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/associate-prof-dr-ahsan-mohammed-hafiz/5628</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/assist-prof-nazmun-laila/5629</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10171,7 +10051,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/dr-a-s-m-shahoriar/5646</loc>
+    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/asst-prof-dr-a-s-m-shahriar/5646</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10361,11 +10241,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/colorectal-surgery/assistant-professor-dr-fayem-chowdhury/5743</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/medicine/professor-dr-md-nur-a-alom-khan/5745</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -10421,11 +10296,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/dr-md-rezwan-kaiser/5780</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/cardiology/asst-prof-dr-abu-md-towab/5781</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -10442,11 +10312,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/medicine/professor-dr-ashiqur-rahman-khan/5786</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/assot-prof-dr-md-mouzzam-hossain/5788</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10476,7 +10341,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/asst-prof-dr-md-arifuzzaman/5797</loc>
+    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/associate-professor-dr-md-arifuzzaman/5797</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10541,11 +10406,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asst-prof-dr-md-akter-uzzaman/5815</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asst-prof-dr-provash-chandra-saha/5818</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -10566,7 +10426,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/prof-dr-nihar-ranjan-sarker/5824</loc>
+    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics-chest-medicine/prof-dr-nihar-ranjan-sarker/5824</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10681,11 +10541,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/consultant-dr-ripon-gosh/5860</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/cardiology/prof-dr-chandan-kumar-saha/5861</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -10706,7 +10561,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/associate-prof-dr-akhlak-ahmed/5871</loc>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/professor-dr-akhlak-ahmed/5871</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10807,11 +10662,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/psychiatry/assot-prof-dr-md-zillur-rahman-khan/5914</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/asst-prof-dr-nyem-ibne-abdur-razzak/5916</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10936,7 +10786,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/assot-prof-dr-shaila-nabi/6003</loc>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/professor-dr-shaila-nabi/6003</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11031,22 +10881,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/assistant-professor-dr-sadia-amin/6062</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/asst-prof-dr-md-ruhul-moktadir/6064</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/associate-prof-dr-farhana-tasneem/6065</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/paediatric-haematology-oncology/asso-prof-dr-zannat-ara/6066</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11077,11 +10912,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/liver-medicine/asst-prof-dr-md-shahed-ashraf/6086</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/dr-md-shahidul-islam/6087</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11241,11 +11071,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/dr-kanak-jyoti-mondal/6216</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/dr-golam-fahad-bhuiyan/6218</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -11271,7 +11096,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gyane-oncology/assot-prof-dr-rifat-ara/6228</loc>
+    <loc>https://www.populardiagnostic.com/doctors/gyane-oncology/prof-dr-rifat-ara/6228</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11291,7 +11116,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/nephrology/dr-md-zakir-hossain/6261</loc>
+    <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/dr-md-zakir-hossain/6261</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11301,7 +11126,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/dr-mohammad-asaduzzaman/6291</loc>
+    <loc>https://www.populardiagnostic.com/doctors/oncology-cancer/dr-mohammad-asaduzzaman/6291</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11441,11 +11266,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/dietician/mahmuda-afrin/6374</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/urology-surgery/asso-professor-dr-md-mahmud-hasan/6375</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -11472,11 +11292,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/dental-surgery/asst-prof-dr-rahat-khan/6393</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/prof-dr-parviz-sahidi/6395</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11606,12 +11421,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/prof-dr-akm-mohiuddin-bhuiyan-morning/6453</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/prof-dr-akm-mohiuddin-bhuiyan-evening/6454</loc>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/prof-dr-akm-mohiuddin-bhuiyan/6454</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11657,11 +11467,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/rheumatology-medicine/dr-md-salman-ibna-zaman/6476</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/colorectal-surgery/assist-pro-dr-fayem-chowdhury/6477</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11731,7 +11536,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/asst-prof-dr-nayma-rahman/6491</loc>
+    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/assoc-prof-dr-nayma-rahman/6491</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11772,11 +11577,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/dr-md-niatuzzaman/6501</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/assoc-prof-dr-tapas-kumer-talukder/6502</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11931,7 +11731,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/asst-prof-dr-nowroz-ahmed-raihan/6564</loc>
+    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/asst-prof-dr-nowroj-ahmed-raihan/6564</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11951,7 +11751,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/assoc-prof-dr-m-a-wahed/6578</loc>
+    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/prof-dr-m-a-wahed/6578</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12191,7 +11991,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/liver-medicine/asst-prof-dr-maksud-al-masud/6670</loc>
+    <loc>https://www.populardiagnostic.com/doctors/liver-medicine/asso-prof-dr-maksud-al-masud/6670</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12231,11 +12031,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/dr-mahmudul-hasan-khan/6687</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/gynaecology/prof-dr-shirin-akhter/6688</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -12247,11 +12042,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/thyroid/prof-dr-pabitra-kumar-bhattacharjee/6690</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/gastroenterology/prof-maj-gen-dr-s-m-motahar-hossain/6691</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12281,12 +12071,22 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/prof-dr-md-shafiqul-islam/6698</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.populardiagnostic.com/doctors/child-neuro-surgery/asst-prof-dr-mohammad-rabiul-haque/6701</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/gynaecology/asso-prof-dr-benozir-haque-panna/6702</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/dr-md-shahnawas-biswas/6703</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12336,7 +12136,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/dr-mohammed-imran-hossen/6717</loc>
+    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/asst-pro-dr-mohammed-imran-hossen/6717</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12361,17 +12161,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asso-prof-dr-sariful-hasan/6740</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/medicine/dr-mohammad-mohsin-kabir/6743</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/asst-prof-dr-muhammad-amjad-hossain/6744</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/psychiatry/asst-professor-dr-mohammad-shibli-sadiq/6747</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12391,7 +12191,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/ent/lt-col-dr-md-iftekharul-alam/6751</loc>
+    <loc>https://www.populardiagnostic.com/doctors/ent/asso-prof-lt-col-dr-md-iftekharul-alam/6751</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12431,7 +12231,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/asst-professor-dr-md-nazrul-islam/6762</loc>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/asst-prof-dr-md-nazrul-islam/6762</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12616,11 +12416,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/dr-farhana-kalam-night/6830</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/physical-medicine-rehabilitation/dr-taposh-kumar-ghosh/6832</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -12726,7 +12521,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gastroenterology/dr-syed-arafat-mohiuddin/6859</loc>
+    <loc>https://www.populardiagnostic.com/doctors/gastroenterology/asst-pro-dr-syed-arafat-mohiuddin/6859</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12801,7 +12596,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/diabetologist/asst-prof-dr-mazharul-islam-sohel/6882</loc>
+    <loc>https://www.populardiagnostic.com/doctors/diabetologist/asso-prof-dr-mazharul-islam-sohel/6882</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12831,7 +12626,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/asst-prof-dr-md-nazmul-haque-bhuiyan/6901</loc>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/asst-prof-dr-md-nazmul-hoque-bhuiyan/6901</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12842,16 +12637,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/chest-medicine/asso-prof-dr-s-m-mainul-haque/6903</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/dr-tanvir-adnan/6904</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/vascular-surgery/dr-mohammad-rawnak-kurshed/6905</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12887,11 +12672,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/gastroenterology/professor-dr-md-abdullah-al-faruque/6921</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/haematology/dr-sharup-chandra-poddar/6922</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13036,7 +12816,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/asst-prof-dr-asm-mahamuduzzaman/7043</loc>
+    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/professor-dr-asm-mahamuduzzaman/7043</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13046,7 +12826,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/associate-prof-dr-farhana-rahman/7045</loc>
+    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/prof-dr-farhana-rahman/7045</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13127,11 +12907,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/gynaecology/assistant-professor-dr-abanti-ghosh/7068</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/asst-prof-dr-uma-dhar/7069</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13291,7 +13066,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/asso-prof-dilip-kumar-debnath/7133</loc>
+    <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/asso-prof-dr-dilip-kumar-debnath/7133</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13441,11 +13216,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/dr-aminur-rahman/7198</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/urology-surgery/asso-prof-dr-t-a-manzer/7199</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -13501,12 +13271,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/prof-dr-khosrul-alam-mollick/7223</loc>
+    <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/dr-md-sirajul-alam/7221</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/dr-md-atiqul-islam/7224</loc>
+    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/asstt-prof-dr-md-atiqul-islam/7224</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13621,12 +13391,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/child-neurology/assistant-professor-dr-bikush-chandra-paul/7260</loc>
+    <loc>https://www.populardiagnostic.com/doctors/rheumatology-medicine/dr-m-mahmud-hossain/7259</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/prof-dr-abdul-matin/7261</loc>
+    <loc>https://www.populardiagnostic.com/doctors/child-neurology/assistant-professor-dr-bikush-chandra-paul/7260</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13642,11 +13412,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/orthopedics/prof-dr-bhirendra-nath-bhattacharya/7264</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/dr-md-abdullah-al-mamun/7265</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13711,11 +13476,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/physical-medicine-rehabilitation/asso-prof-dr-prasanta-kumar-chakraborty/7299</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/colorectal-surgery/asst-prof-dr-fayem-chowdhury/7300</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -13761,17 +13521,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/dr-md-abdur-razzak/7323</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/dr-afrin-akter-medicine/7328</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/cardiology/prof-dr-nupur-kar/7330</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/prof-col-dr-md-mizanur-rahman/7331</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13896,7 +13656,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/assistant-prof-dr-md-assaduzzaman-liton/7383</loc>
+    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/assistant-prof-dr-md-asaduzzaman-liton/7383</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14051,7 +13811,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/associate-prof-dr-md-masud-rana/7432</loc>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/professor-dr-md-masud-rana/7432</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14261,11 +14021,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/prof-dr-md-rezaul-bari/7507</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/medicine/asst-prof-dr-md-hasib-uddin-khan/7508</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -14307,11 +14062,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/nephrology/asst-prof-dr-rana-kumar-saha/7523</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/dr-md-rasel-bhuiya/7524</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14411,22 +14161,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/prof-dr-shahidul-islam-sugom/7569</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/liver-biliary-and-pancreatic-surgery/dr-murshidul-arefin/7570</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/dr-shariful-islam-rumen/7575</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/associate-prof-dr-md-motasimul-hasan/7576</loc>
+    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/prof-dr-md-motasimul-hasan/7576</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14491,7 +14231,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/associate-prof-dr-k-m-tarikul-islam/7598</loc>
+    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/professor-dr-k-m-tarikul-islam/7598</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14711,7 +14451,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/physical-medicine/dr-lilian-catherene-gomes/7656</loc>
+    <loc>https://www.populardiagnostic.com/doctors/physical-medicine-rehabilitation/dr-lilian-catherene-gomes/7656</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14841,6 +14581,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/prof-dr-m-a-a-shamim/7699</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/assistant-professor-dr-shawkat-ul-bari/7700</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -14891,11 +14636,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/consultant-dr-arnab-kumar-chowdhury/7725</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/psychiatry/meskat-nowshin-keya/7726</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -14931,7 +14671,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/prof-maj-dr-md-sahidullah-in-morning/7736</loc>
+    <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/prof-maj-dr-md-shohidullah/7736</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14991,17 +14731,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asst-prof-dr-debashis-dey/7766</loc>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asst-prof-dr-debashish-dey/7766</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/asstt-prof-dr-md-alamgir-kabir/7767</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/neurology/asst-prof-dr-mohammad-wahidur-rahman/7768</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15101,17 +14836,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/neurology/dr-pijush-paul/7794</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/prof-col-dr-md-abdul-hye-manik/7795</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gastroenterology/asso-prof-dr-indrojeet-kumar-dutta/7803</loc>
+    <loc>https://www.populardiagnostic.com/doctors/gastroenterology/prof-dr-indrojeet-kumar-dutta/7803</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15186,11 +14916,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/asst-prof-dr-chowdhury-adnan-sami/7842</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/haematology/dr-md-tauhidul-islam/7843</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -15256,7 +14981,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/prof-dr-haradhan-dev-nath/7865</loc>
+    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/prof-dr-haradhan-deb-nath/7865</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15351,6 +15076,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/dr-golam-mahbub-chowdhury/7888</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/dr-arjuda-ahamed/7889</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -15401,7 +15131,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/asst-prof-dr-md-tareq-rahaman/7901</loc>
+    <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/dr-md-tareq-rahaman/7901</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15421,17 +15151,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/associate-professor-dr-sharafat-nurul-islam/7906</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/neurology/assistant-prof-dr-tarun-kanti-sarker/7907</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/dr-md-shahan-islam-ujjal/7908</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15466,11 +15186,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/asso-prof-mohsin-uddin-saide/7918</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/sonologist/dr-kamrun-nesa-hossain/7920</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -15486,7 +15201,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/eye-ophthalmology/dr-eva-saha/7925</loc>
+    <loc>https://www.populardiagnostic.com/doctors/eye-ophthalmology/asst-prof-dr-eva-saha/7925</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15522,11 +15237,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/dr-narayan-chandra-roy/7947</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/asso-prof-dr-firdous-quader-minu/7949</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15572,11 +15282,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/medicine/professor-dr-md-sazzad-hossain/7966</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/dr-md-shah-alam-shamim/7969</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15697,11 +15402,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/child-neurology/asst-prof-dr-sabrina-farah-mouree/8011</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/asst-prof-dr-muhammad-misqatus-saleheen/8012</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15827,11 +15527,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/child-cardiology/prof-dr-md-zahid-hussain/8047</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/prof-dr-latifa-shamsuddin/8048</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15966,16 +15661,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/neurology/dr-uzzal-miah/8083</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/neurology/assistant-prof-dr-md-mazharul-islam/8084</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/assistant-prof-dr-tapas-sarker/8085</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -15991,7 +15676,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/dr-md-ziaul-hasan/8088</loc>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/assistant-professor-dr-md-ziaul-hasan/8088</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16017,11 +15702,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/physical-medicine-rehabilitation/asso-prof-dr-sabia-siddika/8093</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/dr-farzana-khondker-isan/8094</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16066,11 +15746,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/consultant-medicine-dr-arup-kumar-roy/8104</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/medicine/assistant-prof-dr-md-minhaj-uddin-bhuiyan/8105</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -16101,27 +15776,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/asso-prof-dr-ganesh-chandra-saurav/8113</loc>
+    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/associate-professor-dr-ganesh-chandra-saurav/8113</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/pediatric-surgery/asst-prof-dr-debashis-chakraborty/8116</loc>
+    <loc>https://www.populardiagnostic.com/doctors/pediatric-surgery/asso-prof-dr-debashis-chakraborty/8116</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/gynaecology/assi-prof-dr-shahenoor-akhter/8118</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/assist-prof-dr-md-javed-iqbal/8119</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/associate-professor-dr-molina-rani-kundu/8120</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16181,17 +15846,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/assistant-professor-dr-mohammad-mahsin/8134</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/gastroenterology/dr-abu-md-asaduzzaman/8136</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/asso-prof-dr-ganesh-chandra-saurav/8137</loc>
+    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/associate-professor-dr-ganesh-chandra-saurav/8137</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16221,32 +15881,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/assistant-professor-dr-hasina-akhter/8146</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/asst-prof-dr-s-m-mustafizur-rahaman/8147</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/cardiology/assistant-professor-dr-cm-kudrat-e-khuda/8148</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/neurology/assistant-professor-dr-md-mazharul-islam/8149</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/associate-professor-dr-saiful-hoque/8150</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/vascular-surgery/assistant-professor-dr-md-rashel-chowdhury/8152</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16431,7 +16071,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/asso-prof-dr-shaila-nabi/8201</loc>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/prof-dr-shaila-nabi/8201</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16456,7 +16096,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/dr-rajib-shahriar/8208</loc>
+    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/associate-professor-dr-rajib-shahriar/8208</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16481,7 +16121,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/haematology/dr-salauddin-mia/8217</loc>
+    <loc>https://www.populardiagnostic.com/doctors/child-haematology-oncology/dr-salauddin-mia/8217</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16626,7 +16266,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/dentist/asso-prof-dr-mahfuzur-raihan/8258</loc>
+    <loc>https://www.populardiagnostic.com/doctors/dentist/prof-dr-mahfuzur-raihan/8258</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16641,7 +16281,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/dentist/asst-prof-dr-tasdiq-g-chowdhury/8261</loc>
+    <loc>https://www.populardiagnostic.com/doctors/dentist/asso-prof-dr-tazdik-g-chowdhury/8261</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16666,22 +16306,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/dr-shamim-ara/8267</loc>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/asst-prof-dr-shamim-ara/8267</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/cardiology/dr-md-abu-omar-khaium/8268</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/associ-prof-dr-mohammad-ashraful-islam/8269</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/dr-afroja-akhter/8270</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16701,22 +16331,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/dr-ripon-chandra-mazumder/8283</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/prof-dr-mohammad-abdul-wohab/8285</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/prof-dr-md-wahidur-rahman/8286</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/dr-aminur-rahman/8288</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16866,11 +16486,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/asso-prof-dr-sayada-farzana-yeasmin/8352</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/medicine/dr-md-morsalin/8353</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -16956,11 +16571,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/oncology-cancer/dr-mahbuba-akter-tania/8388</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/cardiovascular-thoracic-surgery/dr-md-golam-sarwar/8389</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -17041,11 +16651,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/psychiatry/professor-dr-anupam-das/8417</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/vascular-surgery/dr-mahmodul-hasan-al-faraby/8419</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -17071,7 +16676,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/endocrine-medicine/asst-pro-dr-ranodhir-chakraborty/8432</loc>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/asst-pro-dr-ranodhir-chakraborty/8432</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -17116,11 +16721,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-major-general-k-m-omar-hasan/8444</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/liver-biliary-and-pancreatic-surgery/dr-murshidul-arefin/8445</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -17156,11 +16756,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/oncology-cancer/dr-nishat-tasnim/8452</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/dr-joyanto-saha/8453</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -17192,11 +16787,6 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/prof-dr-yasmin-joarder/8459</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/assit-prof-dr-a-n-m-ilias-naime/8460</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -17256,12 +16846,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/professor-dr-md-rafiqul-islam/8495</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.populardiagnostic.com/doctors/gastroenterology/dr-sourov-kumar-saha/8496</loc>
+    <loc>https://www.populardiagnostic.com/doctors/gastroenterology/asst-prof-dr-sourov-kumar-saha/8496</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -17271,22 +16856,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/gynaecology/dr-sutana-akter/8503</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.populardiagnostic.com/doctors/breast-colorectal-laparoscopy-surgery/dr-sharmin-islam/8504</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/dr-khaja-morshed-mahmud/8505</loc>
+    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/assistant-prof-dr-khaja-morshed-mahmud/8505</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.populardiagnostic.com/doctors/cardiology/asso-prof-dr-md-rabiul-islam-sarkar/8506</loc>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/prof-dr-md-rabiul-islam-sarkar/8506</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -17312,6 +16892,766 @@
   </url>
   <url>
     <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/consultant-dr-md-zahidul-islam-bhuiyan/8512</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/dr-rulia-rahman/8513</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/prof-dr-sankar-kumar-basak/8514</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/dr-mohmmad-neyamul-hasan/8523</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/dr-fahdia-afroj/8524</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/asst-prof-dr-liton-kumar-roy/8525</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/haematology/asso-pro-dr-mohammed-murad-hossain/8528</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/asst-prof-dr-shanta-tribedi/8529</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/asst-prof-dr-md-shahadut-hossain-alim/8530</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/prof-dr-manilal-aich-litu/8532</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/brig-gen-prof-dr-imranul-hasan-murad/8533</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gastroenterology/associate-professor-dr-a-m-abdullah-al-yeusuf/8534</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/asst-prof-dr-md-saiful-islam/8535</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/vascular-surgery/dr-md-ashik-rahman-rifat/8536</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/paediatric-surgery/asst-prof-dr-a-h-m-abu-sufian/8544</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/asso-prof-dr-md-habibullah/8545</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/dr-tania-afrose/8546</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/endocrinology/assistant-prof-dr-m-k-azad/8547</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/asso-prof-dr-biplob-kumar-das/8548</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asst-prof-dr-hasan-nazmus-suhan/8549</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/asstt-prof-dr-nayema-ishrat-easha/8550</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/dr-d-m-sohag/8551</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/endocrine-medicine/dr-mariam-zaman/8552</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/asst-prof-dr-swapan-kumar-halder/8553</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/asst-prof-dr-m-shariful-islam-rumen/8554</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/endocrine-medicine/prof-dr-md-azizul-haque/8555</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/prof-dr-sharafat-nurul-islam/8556</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/dr-aneek-chanda/8557</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/asso-prof-dr-saida-binte-rahman/8559</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopedics/asso-prof-dr-nabil-zunayed-sidny/8560</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/asso-prof-dr-minhaj-uddin-ahmed/8561</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/dr-md-zahangir-alam/8562</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/endocrine-medicine/asso-prof-dr-s-m-mohiuddin/8564</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/asst-prof-dr-pallob-kumar-biswas/8565</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/paediatric-psychiatry/dr-mohtasham-hasan/8566</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/breast-colorectal-laparoscopy-surgery/dr-rokhsana-sharmin-shanta/8567</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/sonologist/lt-col-dr-md-sahab-uddin/8568</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/rheumatology-medicine/asso-prof-dr-habib-imtiaz-ahmed/8569</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/physical-medicine/dr-md-tanjim-hasan-rifat/8570</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/child-haematology-oncology/asstt-prof-dr-md-nazrul-islam/8571</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/prof-dr-md-zakirul-islam/8572</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/asso-prof-dr-amanullah-bin-siddiq/8573</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/assistant-professor-dr-md-mehedi-hasan/8574</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/dr-anika-tasnim-tiasha/8575</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/eye-ophthalmology/prof-dr-k-d-chakrobartti-morning/8577</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/assi-prof-dr-gazi-arifur-rahman/8578</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/paediatric-surgery/dr-s-m-rakibul-hasan/8580</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/dr-md-omar-faruk/8581</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/asso-prof-dr-md-sazzad-hossain-chowdhury/8582</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/general-surgery/asst-prof-dr-mahmud-hasan/8583</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/breast-colorectal-laparoscopy-surgery/dr-mahabub-alam-mirza/8584</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/oncology-cancer/asst-prof-dr-md-shaiful-hassan-shameem/8585</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/asst-prof-dr-arafat-hossain/8586</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/dr-swapan-kumar-saha/8587</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asso-prof-dr-ripon-kumar-ghosh/8589</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/asst-prof-dr-sadekul-haque-tuhin/8590</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/asso-prof-dr-amanullah-bin-siddq/8601</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/neurology/dr-bakul-chandra-roy/8602</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/asst-prof-dr-md-amir-ul-mulk/8603</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gastroenterology/dr-md-kamrul-hasan/8604</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/dr-monirul-islam/8605</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/endocrinology/dr-umma-halima-azam/8606</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-m-a-kashem/8608</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/prof-dr-abul-hasnat-md-jafar/8609</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/endocrine-medicine/dr-md-nafis-shahriar/8610</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/cardiovascular-thoracic-surgery/dr-md-mahedy-hasan/8614</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/assistant-prof-dr-shahzadi-afruza/8615</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/assist-pro-dr-mohammad-abu-taher-miah/8616</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/psychiatry/dr-ashik-al-mahmud/8617</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gastroenterology/prof-dr-ashish-kumar-chakraborty/8618</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/sk-md-abu-zafar/8619</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/assit-prof-dr-refat-al-imon/8620</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/asst-prof-dr-md-mahbubul-islam/8621</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/prof-dr-khodeza-begum/8622</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/dentist/asst-prof-dr-md-abul-kalam-azad/8624</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/assi-prof-dr-romena-akter/8625</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/ent-head-neck-surgery/assoc-prof-dr-md-khaled-shahrear/8626</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/physical-medicine-rehabilitation/assistant-professor-dr-md-giyas-uddin/8627</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/child-paediatrics/dr-jayati-debnath/8628</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/dr-sadia-islam-tuly/8629</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/asso-prof-dr-nurmahal-rubaiya/8630</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asst-prof-dr-fazlay-rabby-khan/8631</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asst-prof-dr-md-mehedy-hasan/8633</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/neurology/dr-shahadat-hosen/8634</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/general-surgery/professor-dr-md-mukti-mahamud/8636</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/general-surgery/asst-prof-dr-md-maniruzzaman/8637</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gastroenterology/prof-dr-syed-mohammad-arif/8638</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/dr-muhammad-belal-hossain/8639</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/psychiatry/assistanat-professor-dr-afsana-benta-anowar/8640</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/endocrine-medicine/dr-md-kabir-hossain/8649</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/child-neurology/dr-md-mahazur-alam-sumon/8650</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/psychiatry/associate-professor-dr-md-saiful-islam-bhuiyan/8651</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/neurology/prof-dr-mohammad-saiful-bashar/8652</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/dr-rakhal-chandra-barua/8653</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/asst-prof-dr-fatema-tuj-johora/8654</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/dr-sultan-mahmud-sumon/8655</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/physical-medicine/col-dr-hasna-raihan-rahim/8656</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/dr-sananda-saha/8657</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/asst-prof-dr-munmun-alam/8658</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/dr-md-emon-ibn-noor/8659</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/colorectal-surgery/dr-shifat-tanjila/8660</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/general-surgery/dr-md-imranul-islam-mazumder/8661</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/prof-dr-muhammad-sayeed-mahmud/8662</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/endocrine-medicine/prof-dr-nausher-azimul-huq/8663</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/associate-prof-dr-rupasree-biswas/8664</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/endocrinology/asso-prof-dr-khaled-shawkat-ali/8667</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/dr-md-abu-abdullah-hossain-mazumder/8668</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/dr-abu-saleh/8670</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/psychiatry/dr-ashik-al-mahmud/8672</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/asst-prof-dr-aminul-islam-partho/8673</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-a-b-m-saiful-alam/8674</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/dr-susanta-kumar-paul/8675</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/neurology/dr-md-ziaul-haque-tipu/8676</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/assistant-professor-dr-mohammad-moniruzzaman-monir/8677</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/assot-prof-dr-muhammad-asaduzzaman/8678</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/medicine/prof-dr-mohammad-nurul-gani/8679</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/associate-professor-dr-md-delower-hossain/8680</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/neonatal/dr-purna-talukder/8681</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/neurology/asst-prof-dr-biswojit-mondal-2-20pm-3-20pm/8683</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/dr-kishoara-sultana/8684</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/sonologist/dr-humaira-islam-khan/8686</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/asso-prof-dr-soma-podder/8687</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/physical-medicine-rehabilitation/asst-prof-dr-puza-das-dewan/8689</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/sonologist/dr-mahmuda-karim/8690</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/sonologist/asst-prof-dr-sohel-sarower/8691</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/sonologist/dr-sumiya/8692</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/sonologist/dr-sumiya/8693</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/general-surgery/dr-asim-sarkar/8694</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/urology-surgery/dr-nirupom-mondal/8695</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/prof-dr-md-anisul-goni-khan/8697</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/prof-dr-mir-hamidur-rahman/8698</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/endocrinology/dr-shah-mohammad-intekhab/8699</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/professor-dr-sajjadur-rahman/8700</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/vascular-surgery/dr-meer-mohammad-shahin/8701</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/diabetologist/dr-m-a-samad/8703</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/chest-medicine/dr-riazur-rahaman-riyad/8704</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/dr-pulok-kumar-biswas/8705</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/dr-abir-hassan/8706</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/haematology/dr-md-ashikuzzaman/8707</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/physical-medicine-rehabilitation/dr-rupa-saha/8708</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/nephrology-kidney-medicine/dr-parijat-datta/8709</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/asst-prof-dr-lubna-jahan-khan/8710</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/neurology/dr-md-shahidul-islam-bhuiya/8716</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/vascular-surgery/asst-pro-dr-md-faridul-islam-shahin/8717</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/orthopaedic-surgery/asst-prof-dr-kazi-md-rakibul-hasan/8718</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/food-nutrition/dr-sumana-rashid/8720</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/dr-nusrat-jahan-dristy/8721</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/asst-prof-dr-niloufer-fatima/8722</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/cardiology/dr-hassan-mahmud-iqbal/8727</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/neuro-surgery/associate-prof-dr-mohammad-shahnawaz-bari/8729</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/skin-dermatology/dr-shamima-akter/8730</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/gynaecology/associate-prof-dr-farzana-sharmin/8731</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.populardiagnostic.com/doctors/general-surgery/dr-md-sayedul-arefin/8732</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
