@@ -1,0 +1,14 @@
+# Keep the free *.pages.dev hostnames out of search results so they never
+# compete with the custom domain as duplicate content. These rules match on
+# host, so the custom domain stays fully crawlable and is unaffected.
+# Preview deployments already get X-Robots-Tag: noindex from Cloudflare;
+# these two cover the production pages.dev URL, which does not.
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex
+
+https://:version.:project.pages.dev/*
+  X-Robots-Tag: noindex
+
+# QA build: built assets are re-downloaded on every load.
+/assets/*
+  Cache-Control: no-store
