@@ -27,9 +27,16 @@ function Cor() {
     autoFetch: true,
     transform: (data) => {
       // Ensure we have an array of partners with proper structure
-      if (!Array.isArray(data)) return [];
+      const list = Array.isArray(data)
+        ? data
+        : Array.isArray(data?.data)
+          ? data.data
+          : Array.isArray(data?.data?.data)
+            ? data.data.data
+            : [];
+      if (!Array.isArray(list)) return [];
       
-      return data.map((partner, index) => ({
+      return list.map((partner, index) => ({
         id: partner.id || `partner-${index}`,
         image: partner.image,
         name: partner.name || `Partner ${partner.id || index + 1}`,
@@ -70,19 +77,40 @@ function Cor() {
       );
     }
 
+    // Duplicate list so there are plenty of logos to fill any screen size
+    const partnersDuplicated = [...corporatePartners, ...corporatePartners];
+
     return (
-      <div
-        className="my-8 w-full">
-        <div className="py-4 w-full flex flex-wrap justify-center gap-y-4" aria-label="Corporate partners">
-          {corporatePartners.map((partner) => (
-            <div key={partner.id} className="mx-3 sm:mx-6 md:mx-8 lg:mx-10">
-              <img
-                src={partner.image}
-                alt={partner.alt || `Image ${partner.id}`}
-                className="h-12 w-auto sm:h-16 md:h-18 lg:h-20 object-contain transition-all duration-300 hover:scale-105 hover:brightness-110 filter grayscale-0"
-              />
-            </div>
-          ))}
+      <div className="my-8 w-full overflow-hidden relative" aria-label="Corporate partners">
+        <div className="corporate-marquee-track py-4 flex items-center">
+          {/* Loop Set 1 */}
+          <div className="flex items-center flex-shrink-0">
+            {partnersDuplicated.map((partner, index) => (
+              <div
+                key={`track-1-${partner.id}-${index}`}
+                className="mx-4 sm:mx-6 md:mx-8 lg:mx-10 flex-shrink-0 flex items-center justify-center">
+                <img
+                  src={partner.image}
+                  alt={partner.alt || `Partner ${index + 1}`}
+                  className="h-12 w-auto sm:h-16 md:h-18 lg:h-20 object-contain transition-all duration-300 hover:scale-110 hover:brightness-110 filter grayscale-0"
+                />
+              </div>
+            ))}
+          </div>
+          {/* Loop Set 2 (exact duplicate for seamless 100% loop) */}
+          <div className="flex items-center flex-shrink-0">
+            {partnersDuplicated.map((partner, index) => (
+              <div
+                key={`track-2-${partner.id}-${index}`}
+                className="mx-4 sm:mx-6 md:mx-8 lg:mx-10 flex-shrink-0 flex items-center justify-center">
+                <img
+                  src={partner.image}
+                  alt={partner.alt || `Partner ${index + 1}`}
+                  className="h-12 w-auto sm:h-16 md:h-18 lg:h-20 object-contain transition-all duration-300 hover:scale-110 hover:brightness-110 filter grayscale-0"
+                />
+              </div>
+            ))}
+          </div>
         </div>
       </div>
     );

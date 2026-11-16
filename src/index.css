@@ -35,19 +35,80 @@
   }
 }
 
-/* Animated border for Report Download button */
-@keyframes borderSpin {
+/* Animated rotating border glow for Report Download button */
+@keyframes reportBorderSpin {
   0% {
-    transform: rotate(0deg);
+    transform: translate(-50%, -50%) rotate(0deg);
   }
   100% {
-    transform: rotate(360deg);
+    transform: translate(-50%, -50%) rotate(360deg);
   }
+}
+
+.report-glow-border {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 320px;
+  height: 320px;
+  transform: translate(-50%, -50%) rotate(0deg);
+  background: conic-gradient(
+    from 0deg,
+    #006642 0deg,
+    #00984a 90deg,
+    #22c55e 180deg,
+    #86efac 270deg,
+    #00984a 330deg,
+    #006642 360deg
+  );
+  animation: reportBorderSpin 3s linear infinite !important;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.report-glow-border-active {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 320px;
+  height: 320px;
+  transform: translate(-50%, -50%) rotate(0deg);
+  background: conic-gradient(
+    from 0deg,
+    #006642 0deg,
+    #00984a 90deg,
+    #22c55e 180deg,
+    #00984a 270deg,
+    #006642 360deg
+  );
+  animation: reportBorderSpin 2s linear infinite !important;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Continuous infinite loop marquee for Corporate Partners (Right to Left) */
+@keyframes corporateMarqueeScroll {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.corporate-marquee-track {
+  display: flex;
+  width: max-content;
+  animation: corporateMarqueeScroll 28s linear infinite !important;
+  will-change: transform;
+}
+
+.corporate-marquee-track:hover {
+  animation-play-state: paused !important;
 }
 
 /* Respect user's motion preferences */
 @media (prefers-reduced-motion: reduce) {
-  .border-animation,
   .stat-pulse,
   .stat-shimmer,
   .stat-border-gradient {
@@ -1402,15 +1463,4 @@ button,
 }
 @media (prefers-reduced-motion: reduce) {
   .gal-skeleton { animation: none; }
-}
-
-
-/* QA build: no CSS motion anywhere. Spinners stay, because they are the only
-   sign a slow request is still running. */
-*, *::before, *::after {
-  transition: none !important;
-  scroll-behavior: auto !important;
-}
-*:not(.animate-spin), *:not(.animate-spin)::before, *:not(.animate-spin)::after {
-  animation: none !important;
 }

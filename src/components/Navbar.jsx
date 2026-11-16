@@ -349,45 +349,33 @@ const Navbar = () => {
 
               {/* Report Download Link with Animated Border */}
               <div>
-                <div className="relative p-0.5 rounded-lg overflow-hidden group">
-                  {/* Animated Border Background - Enhanced when active */}
+                <div className="relative p-[2.5px] rounded-lg overflow-hidden group">
+                  {/* Animated Border Background - Continuously rotating glowing color beam */}
                   <div
-                    className={clsx(
-                      "absolute inset-0 rounded-lg border-animation",
-                      location.pathname === "/patient_portal" &&
-                        "opacity-100 scale-105",
-                    )}
-                    style={{
-                      background:
-                        location.pathname === "/patient_portal"
-                          ? "conic-gradient(from 0deg, #006642 0deg, #00984a 120deg, #006642 240deg, #00984a 360deg)"
-                          : "conic-gradient(from 0deg, transparent 270deg, #006642 300deg, #00984a 330deg, transparent 360deg)",
-                      animation:
-                        location.pathname === "/patient_portal"
-                          ? "borderSpin 2s linear infinite"
-                          : "borderSpin 3s linear infinite",
-                    }}
+                    className={
+                      location.pathname === "/patient_portal"
+                        ? "report-glow-border-active"
+                        : "report-glow-border"
+                    }
                   />
                   {/* Active State Glow */}
                   {location.pathname === "/patient_portal" && (
-                    <div className="absolute inset-0 rounded-lg bg-PDCL-green/20 shadow-lg shadow-PDCL-green/30" />
+                    <div className="absolute inset-0 rounded-lg bg-PDCL-green/20 shadow-lg shadow-PDCL-green/30 pointer-events-none" />
                   )}
                   {/* Button Content */}
                   <Link
                     to="/patient_portal"
                     className={clsx(
-                      "relative flex items-center gap-2 px-3 md:px-4 py-2 md:py-3 font-medium rounded-lg hover:bg-white/80 hover:backdrop-blur-md transition-all duration-300 font-ubuntu bg-white",
+                      "relative z-10 flex items-center gap-2 px-3 md:px-4 py-2 md:py-2.5 font-medium rounded-[6px] hover:bg-white/90 transition-all duration-300 font-ubuntu bg-white shadow-sm",
                       location.pathname === "/patient_portal"
-                        ? "text-PDCL-green shadow-inner"
+                        ? "text-PDCL-green font-semibold"
                         : "text-gray-700 hover:text-PDCL-green",
                     )}
                     aria-label="Download medical reports">
                     <ArrowDownTrayIcon
                       className={clsx(
-                        "w-4 h-4 stroke-2 transition-all",
-                        location.pathname === "/patient_portal"
-                          ? "text-PDCL-green animate-pulse"
-                          : "text-PDCL-green",
+                        "w-4 h-4 stroke-2 transition-all text-PDCL-green animate-bounce",
+                        location.pathname === "/patient_portal" && "font-bold",
                       )}
                     />
                     <span
@@ -426,49 +414,33 @@ const Navbar = () => {
               </a>
 
               {/* Mobile Report Download Icon Button */}
-              <div
-                className="md:hidden">
-                <div className="relative p-0.5 rounded-xl overflow-hidden">
-                  {/* Animated Border Background - Enhanced when active */}
+              <div className="md:hidden">
+                <div className="relative p-[2.5px] rounded-xl overflow-hidden">
+                  {/* Animated Border Background - Continuously rotating glowing color beam */}
                   <div
-                    className={clsx(
-                      "absolute inset-0 rounded-xl border-animation",
-                      location.pathname === "/patient_portal" &&
-                        "opacity-100 scale-105",
-                    )}
-                    style={{
-                      background:
-                        location.pathname === "/patient_portal"
-                          ? "conic-gradient(from 0deg, #006642 0deg, #00984a 120deg, #006642 240deg, #00984a 360deg)"
-                          : "conic-gradient(from 0deg, transparent 270deg, #006642 300deg, #00984a 330deg, transparent 360deg)",
-                      animation:
-                        location.pathname === "/patient_portal"
-                          ? "borderSpin 2s linear infinite"
-                          : "borderSpin 3s linear infinite",
-                    }}
+                    className={
+                      location.pathname === "/patient_portal"
+                        ? "report-glow-border-active"
+                        : "report-glow-border"
+                    }
                   />
                   {/* Active State Inner Glow */}
                   {location.pathname === "/patient_portal" && (
-                    <div className="absolute inset-1 rounded-lg bg-PDCL-green/10 shadow-inner" />
+                    <div className="absolute inset-1 rounded-lg bg-PDCL-green/10 shadow-inner pointer-events-none" />
                   )}
                   {/* Icon Button Content */}
                   <Link
                     to="/patient_portal"
                     className={clsx(
-                      "relative flex items-center justify-center p-3 font-medium rounded-xl hover:bg-white/80 active:bg-white/80 hover:backdrop-blur-md transition-all duration-300 bg-white touch-manipulation",
+                      "relative z-10 flex items-center justify-center p-2.5 font-medium rounded-[10px] hover:bg-white/90 active:bg-white/90 transition-all duration-300 bg-white touch-manipulation shadow-sm",
                       location.pathname === "/patient_portal"
-                        ? "text-PDCL-green shadow-inner"
-                        : "text-gray-700 hover:text-white",
+                        ? "text-PDCL-green"
+                        : "text-gray-700",
                     )}
-                    style={{ minWidth: "44px", minHeight: "44px" }}
+                    style={{ minWidth: "42px", minHeight: "42px" }}
                     aria-label="Download medical reports">
                     <ArrowDownTrayIcon
-                      className={clsx(
-                        "w-5 h-5 stroke-2 font-bold transition-all",
-                        location.pathname === "/patient_portal"
-                          ? "text-PDCL-green animate-bounce"
-                          : "text-PDCL-green",
-                      )}
+                      className="w-5 h-5 stroke-2 font-bold transition-all text-PDCL-green animate-bounce"
                     />
                   </Link>
                 </div>

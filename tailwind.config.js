@@ -6,6 +6,7 @@ module.exports = {
   theme: {
     extend: {
       animation: {
+        borderSpin: "borderSpin 3s linear infinite",
         blink: "blink 1s linear infinite",
         blob: "blob 5s infinite",
         upDown: "upDown 3s ease-in-out infinite",
@@ -17,6 +18,10 @@ module.exports = {
         glow: "glow 2s ease-in-out infinite alternate",
       },
       keyframes: {
+        borderSpin: {
+          "0%": { transform: "rotate(0deg)" },
+          "100%": { transform: "rotate(360deg)" },
+        },
         upDown: {
           "0%": { transform: "translateY(0)" },
           "50%": { transform: "translateY(-20px)" },
